@@ -1,0 +1,18 @@
+/* Il s'agit de sélecteurs puis vous avez les accolades (et les propriétés css déclarées) */
+
+/*sélecteur universel applique les propriétés déclarées à tous les élements html*/
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    margin: 0;
+    color: green;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
